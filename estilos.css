@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+body{
+    background-color: #07C8D1;
+    font-family: Roboto ;
+    padding: 300px 500px;
+    
+}
+
+/* principal */
+
+.boton{
+    background-color:#fafafa;
+    margin-left: 150px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid rgb(236, 228, 228);
+   text-decoration: none;
+   color: #212121;
+   font-weight: 400;
+   font-size: 15px;
+    
+}
+
+.contenedor-principal{
+    background-color:#fafafa;
+    width: 350px;
+    height: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    /* margin-top: 100px;
+    margin-left: 200px; */
+}
+
+.contenedor-skills{
+    padding: 10px;
+}
+
+.contenedor__skills-list-rosa{
+   border-left: 3px solid  pink;
+   border-top: 1px solid #D4DAE6;
+   border-bottom: 1px solid #D4DAE6;
+   border-right: 1px solid #D4DAE6;
+   padding: 10px;
+   border-radius: 5px;
+   margin: 3px;
+   
+}
+
+.contenedor__skills-list-purple{
+    border-left: 3px solid violet;
+    border-top: 1px solid #D4DAE6;
+    border-bottom: 1px solid #D4DAE6;
+    border-right: 1px solid #D4DAE6;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 3px;
+    
+ }
+ .contenedor__skills-list-orange{
+    border-left: 3px solid orangered ;
+    border-top: 1px solid #D4DAE6;
+    border-bottom: 1px solid #D4DAE6;
+    border-right: 1px solid #D4DAE6;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 3px;
+    
+ }
+
+ a{
+     text-decoration: none;
+     color: #212121;
+     font-weight: 600;
+ }
+
+ .Courses{
+     font-size: 10px;
+ }
+ 
+ .titulo{
+     font-weight: 600;
+ }
